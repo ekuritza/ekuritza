@@ -23,5 +23,6 @@ bio:
 
 <a href="https://www.linkedin.com/in/roberto-furini-0b3a27232/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Eduardo%20Kuritza-blue?style=flat-square&logo=linkedin&logoColor=blue"></a>
 #
-[![Lobster GitHub stats](https://github-readme-stats.vercel.app/api?username=ekuritza&theme=dracula)](https://github.com/Lobster-dev/)]
+[![Ekuritza GitHub stats](https://github-readme-stats.vercel.app/api?username=ekuritza&theme=vue-dark&count_private=true)](https://github.com/ekuritza/)]
 #
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ekuritza&hide=java)](https://github.com/Ekuritza)
