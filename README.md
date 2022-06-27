@@ -25,4 +25,4 @@ bio:
 #
 [![Ekuritza GitHub stats](https://github-readme-stats.vercel.app/api?username=ekuritza&theme=vue-dark&count_private=true)](https://github.com/ekuritza/)]
 #
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ekuritza&hide=java)](https://github.com/Ekuritza)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ekuritza&hide=java,css,html)](https://github.com/Ekuritza)
