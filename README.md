@@ -7,7 +7,7 @@ personal:
   city: 'Curitiba, Brazil'
 professional:
   employed: true
-  title: 'backend Assistant'
+  title: 'Fullstack developer/estag'
   employer: 'Vidya Technology'
 bio:
   techStack:
