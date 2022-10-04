@@ -8,9 +8,11 @@ personal:
 professional:
   employed: true
   title: 'backend Assistant'
-  employer: 'MadeiraMadeira'
+  employer: 'Vidya Technology'
 bio:
   techStack:
+    - 'Java'
+    - 'Vue'
     - 'Node.JS'
     - 'Linux'
     - 'TypeScript'
