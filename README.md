@@ -3,22 +3,23 @@
 personal:
   name: 'Eduardo'
   surname: 'Kuritza'
-  age: 20
+  age: 21
   city: 'Curitiba, Brazil'
 professional:
   employed: true
-  title: 'Fullstack developer/estag'
-  employer: 'Vidya Technology'
+  title: 'IT Trainee'
+  employer: 'ExxonMobil'
 bio:
   techStack:
-    - 'Java'
-    - 'Vue'
+    - 'Python'
+    - 'Azure'
     - 'Node.JS'
     - 'Linux'
     - 'TypeScript'
     - 'Docker'
   hobbies:
     - 'soccer'
+    - 'Gym'
 ```
 #
 ### 🤝🏻 connect with me! 🤝🏻
