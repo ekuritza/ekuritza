@@ -24,7 +24,7 @@ bio:
 #
 ### 🤝🏻 connect with me! 🤝🏻
 
-<a href="https://www.linkedin.com/in/eduardo-kuritza-2ab3a01ab/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Eduardo%20Kuritza-blue?style=flat-square&logo=linkedin&logoColor=blue"></a>
+<a href="https://www.linkedin.com/in/eduardo-kuritza-2ab3a01ab/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Eduardo%20Kuritza-blue?style=flat-square&logo=linkedin&logoColor=blue"></a>
 #
 [![Ekuritza GitHub stats](https://github-readme-stats.vercel.app/api?username=ekuritza&theme=vue-dark&count_private=true)](https://github.com/ekuritza/)]
 #
